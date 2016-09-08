@@ -1,4 +1,4 @@
-## GSoC-Mixxx Keymapping-GUI
+## Mixxx DJ Keymapping-GUI
 This project focus to keyboard controller or keyboard shortcut for App Mixxx DJ Software
 
 ### Keyboard shortcut
